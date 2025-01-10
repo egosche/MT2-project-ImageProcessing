@@ -1,4 +1,4 @@
-# Source Code for Medical Engineering 2 - Final Project Summer Term 2024
+# Source Code for Medical Engineering 2 - Final Project 
 
 To download this repository, you have two options:
 
