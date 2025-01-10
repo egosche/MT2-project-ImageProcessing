@@ -13,5 +13,5 @@ To download this repository, you have two options:
     git clone git@github.com:mt2-erlangen/project_ss2024.git
     ```
 
-This repository contains all the necessary files and instructions for completing the final project for the Medical Engineering 2 course in the summer term of 2024.
+This repository contains all the necessary files for setting up the final project for the Medical Engineering 2 course.
 Writing and programming instructions can be found on [https://mt2-erlangen.github.io](https://mt2-erlangen.github.io)
